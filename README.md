@@ -1,5 +1,7 @@
 # Google Cloud Build community images
 
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/48ab0e2d-3188-4b73-b67e-a521eccd9ce9.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/cloud-builders-community?orgId=561911742905)  [![Git](https://app.soluble.cloud/api/v1/public/badges/3958f340-32b9-4785-8878-01eac54782f7.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/cloud-builders-community?orgId=561911742905)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/843652d0-df99-4082-8158-afdfe2f16f87.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/cloud-builders-community?orgId=561911742905)  
+
 This repository contains source code for community-contributed Docker images. You can use these images as build steps for
 [Google Cloud Build](https://cloud.google.com/cloud-build/docs/).
 
